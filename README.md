@@ -1,4 +1,4 @@
-### Monolingual non-English BERT model to detect and classify abusive language tweets (Multi-class classification
+### Monolingual non-English BERT model to detect and classify abusive language tweets (Multi-class classification)
 
 
 #### Monolingual non-English BERT model for Text Classification
